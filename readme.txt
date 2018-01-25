@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
 
-新内容更改
+新内容更改，我准备回退
