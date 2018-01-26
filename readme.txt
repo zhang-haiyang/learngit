@@ -13,4 +13,4 @@ Git is free software.
 关联远程库
 
 最新测试
-这是我在feature1ti分支上的第一次分支冲突提(在master上加的冲突内容)
+这是我在feature1ti分支上的第ER次分支冲突提(在master上加的新加的冲突内容)
