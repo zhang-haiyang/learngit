@@ -15,3 +15,5 @@ Git is free software.
 最新测试
 
 这是我在feature1ti分支上的第ER次分支冲突提(在master上加的冲突内容)最终的
+
+添加文件内容
